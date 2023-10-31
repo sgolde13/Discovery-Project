@@ -1,22 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
-"""Created on Sat Oct 14 13:31:08 2023
-For Simulation Biology EN.605.755.81.FA23
-Discovery Project
-
-@author: Shelby Golden and Mukul Sherekar
-
-Python version: 3.7
-
-NOTE: a different enviroment was setup to include seaborn using conda (miniconda3)
-check out how to do this/change enciroments:
-https://docs.spyder-ide.org/5/faq.html#using-packages-installer
-
-Restarting the kernel sometimes isn't enough. Closing and re-opening Spyder does
 """
-
 Created on Oct 14
 For the Simulation Biology EN.605.755.81.FA23 Discovery Projec
 
@@ -34,7 +19,7 @@ Code source: https://github.com/tlubitz/SBtab/blob/master/python/README.md'
 
 
 
-
+"""
 
 The following section was intended to convert sbtab TSV files to SBML for modification.
 This was a necessary workaround since modified TSV files were not able to be uploaded
