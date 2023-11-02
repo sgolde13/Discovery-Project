@@ -1,0 +1,507 @@
+!!SBtab SBtabVersion='1.0' TableID='ParameterBalanced' TableType='Quantity' TableName='Parameter' Document='jiang_data_cerevisiae.tsv' Date='2023-11-01'
+!QuantityType	!Reaction:SBML:reaction:id	!Compound:SBML:species:id	!Mode	!Unit	!UnconstrainedGeometricMean	!UnconstrainedGeometricStd	!UnconstrainedMean	!UnconstrainedStd	!Std	!GeometricStd	!Organism	!Reference
+standard chemical potential		GLC	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		GLC	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		F6P	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		F6P	0.5814	mM	0.5814	1.5884	0.6471	0.3162		1.2		
+standard chemical potential		FBP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		FBP	2.4245	mM	2.4245	1.5884	2.6985	1.3187		1.2		
+standard chemical potential		GAP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		GAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		DPG	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		DPG	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		PEP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		PEP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		PYR_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		PYR_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		AMP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		AMP	0.1747	mM	0.1747	1.5884	0.1945	0.095		1.2		
+standard chemical potential		LAC	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		LAC	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		G3P	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		G3P	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		DHAP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		DHAP	0.2578	mM	0.2578	1.5884	0.287	0.1402		1.2		
+standard chemical potential		OXA_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		OXA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Asp_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Asp_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Glu_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Glu_cyt	17.9719	mM	17.9719	1.5884	20.0029	9.7745		1.2		
+standard chemical potential		OG_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		OG_cyt	2.048	mM	2.048	1.5884	2.2794	1.1139		1.2		
+standard chemical potential		Mal_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Mal_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Acetyl_CoA_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Acetyl_CoA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		CoA_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		CoA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		IsoCitcyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		IsoCitcyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Cit_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Cit_cyt	0.5814	mM	0.5814	1.5884	0.6471	0.3162		1.2		
+standard chemical potential		ATP_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ADP_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NAD	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NAD	1.0531	mM	1.0531	1.5884	1.1721	0.5727		1.2		
+standard chemical potential		NADH_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NADP_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NADPH_cyt	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADPH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Pyr	-4.4894	kJ/mol	NaN	NaN	-4.4894	456.4565				
+concentration		Pyr	1.2853	mM	1.2853	1.5884	1.4305	0.699		1.2		
+standard chemical potential		CO2	-4.4894	kJ/mol	NaN	NaN	-4.4894	456.4565				
+concentration		CO2	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		CoA	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Acetyl_CoA	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Acetyl_CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Pi	4.4894	kJ/mol	NaN	NaN	4.4894	456.4565				
+concentration		Pi	15.8972	mM	15.8972	1.5884	17.6937	8.6461		1.2		
+standard chemical potential		Fum	-28.8781	kJ/mol	NaN	NaN	-28.8781	354.9031				
+concentration		Fum	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		SCoA	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		SCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Suc	28.8781	kJ/mol	NaN	NaN	28.8781	354.9031				
+concentration		Suc	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		GTP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		GTP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		GDP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		GDP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Ala	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Ala	11.7112	mM	11.7112	1.5884	13.0347	6.3695		1.2		
+standard chemical potential		Asp	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Asp	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Glu	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Glu	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		H2O	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		H2O	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ETFred	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		ETFred	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ETFox	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		ETFox	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		FADH2	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		FADH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		FAD	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		FAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		OG	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Mal	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		OXA	4.4894	kJ/mol	NaN	NaN	4.4894	456.4565				
+concentration		OXA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Cit	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Cit	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		IsoCit	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		IsoCit	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ATP	-4.4894	kJ/mol	NaN	NaN	-4.4894	456.4565				
+concentration		ATP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ADP	4.4894	kJ/mol	NaN	NaN	4.4894	456.4565				
+concentration		ADP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NADP_p	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADP_p	0.0898	mM	0.0898	1.5884	0.1	0.0489		1.2		
+standard chemical potential		NADPH	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADPH	0.0898	mM	0.0898	1.5884	0.1	0.0489		1.2		
+standard chemical potential		NAD_p	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NADH	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Q	-26.3248	kJ/mol	NaN	NaN	-26.3248	354.6748				
+concentration		Q	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		QH2	26.3248	kJ/mol	NaN	NaN	26.3248	354.6748				
+concentration		QH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Cytc3p	-11.9999	kJ/mol	NaN	NaN	-11.9999	353.7604				
+concentration		Cytc3p	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Cytc2p	11.9999	kJ/mol	NaN	NaN	11.9999	353.7604				
+concentration		Cytc2p	0.1	mM	0.1	10.0	1.4167	20.0217				
+catalytic rate constant geometric mean	GLCflow		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	GLCflow		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	GLCflow		1.0	dimensionless	1.0	3.9327088155741904e+87	inf	inf				
+substrate catalytic rate constant	GLCflow		31.6228	1/s	31.6228	7.011936469964137e+43	inf	inf				
+product catalytic rate constant	GLCflow		3.1623	1/s	3.1623	7.011936469964137e+43	inf	inf				
+catalytic rate constant geometric mean	LACflow		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	LACflow		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	LACflow		1.0	dimensionless	1.0	3.9327088155741904e+87	inf	inf				
+substrate catalytic rate constant	LACflow		3.1623	1/s	3.1623	7.011936469964137e+43	inf	inf				
+product catalytic rate constant	LACflow		31.6228	1/s	31.6228	7.011936469964137e+43	inf	inf				
+catalytic rate constant geometric mean	GAPflow		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	GAPflow		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	GAPflow		1.0	dimensionless	1.0	3.9327088155741904e+87	inf	inf				
+substrate catalytic rate constant	GAPflow		3.1623	1/s	3.1623	7.011936469964137e+43	inf	inf				
+product catalytic rate constant	GAPflow		31.6228	1/s	31.6228	7.011936469964137e+43	inf	inf				
+catalytic rate constant geometric mean	v1		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v1		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v1		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v1		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v1		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	v2		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v2		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v2		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v2		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v2		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	v3		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v3		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v3		1.0	dimensionless	1.0	7.373697454688143e+195	inf	inf				
+substrate catalytic rate constant	v3		31.6228	1/s	31.6228	9.133617056220017e+97	inf	inf				
+product catalytic rate constant	v3		3.1623	1/s	3.1623	9.133617056220017e+97	inf	inf				
+catalytic rate constant geometric mean	v4		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v4		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v4		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v4		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v4		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	v5		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v5		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v5		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v5		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v5		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	v6		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v6		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v6		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v6		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v6		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	v7		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v7		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v7		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v7		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+product catalytic rate constant	v7		10.0	1/s	10.0	4.199791070514112e+87	inf	inf				
+catalytic rate constant geometric mean	hidden_1		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	hidden_1		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	hidden_1		1.0	dimensionless	1.0	3.6500521210519194e+214	inf	inf				
+substrate catalytic rate constant	hidden_1		10.0	1/s	10.0	2.0266560615790408e+107	inf	inf				
+product catalytic rate constant	hidden_1		10.0	1/s	10.0	2.0266560615790408e+107	inf	inf				
+catalytic rate constant geometric mean	v8		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v8		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v8		6.1164	dimensionless	6.1164	4.038832128934389e+118	inf	inf				
+substrate catalytic rate constant	v8		24.7314	1/s	24.7314	2.1930899028740167e+59	inf	inf				
+product catalytic rate constant	v8		4.0434	1/s	4.0434	2.1930899028740167e+59	inf	inf				
+catalytic rate constant geometric mean	v9		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v9		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v9		1.0	dimensionless	1.0	3.6500521207512786e+214	inf	inf				
+substrate catalytic rate constant	v9		10.0	1/s	10.0	2.0266560614956344e+107	inf	inf				
+product catalytic rate constant	v9		10.0	1/s	10.0	2.0266560614956344e+107	inf	inf				
+catalytic rate constant geometric mean	v10		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v10		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v10		6.1164	dimensionless	6.1164	3.180458307479933e+171	inf	inf				
+substrate catalytic rate constant	v10		24.7314	1/s	24.7314	6.031064801512966e+85	inf	inf				
+product catalytic rate constant	v10		4.0434	1/s	4.0434	6.031064801512966e+85	inf	inf				
+catalytic rate constant geometric mean	v11		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v11		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v11		1.0	dimensionless	1.0	7.543990341635785e+123	inf	inf				
+substrate catalytic rate constant	v11		10.0	1/s	10.0	9.443132759930847e+61	inf	inf				
+product catalytic rate constant	v11		10.0	1/s	10.0	9.443132759930847e+61	inf	inf				
+catalytic rate constant geometric mean	v12		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v12		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v12		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v12		9.4787	1/s	9.4787	4.186573578564985e+87	inf	inf				
+product catalytic rate constant	v12		10.5499	1/s	10.5499	4.186573578564985e+87	inf	inf				
+catalytic rate constant geometric mean	v14		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v14		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v14		6.1164	dimensionless	6.1164	3.65318486952318e+211	inf	inf				
+substrate catalytic rate constant	v14		24.7314	1/s	24.7314	6.416964786353388e+105	inf	inf				
+product catalytic rate constant	v14		4.0434	1/s	4.0434	6.416964786353388e+105	inf	inf				
+catalytic rate constant geometric mean	v15		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v15		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v15		0.0001	dimensionless	0.0001	2.3187496540912373e+202	inf	inf				
+substrate catalytic rate constant	v15		0.0731	1/s	0.0731	1.6210703433599214e+101	inf	inf				
+product catalytic rate constant	v15		1368.7436	1/s	1368.7436	1.6210703433599214e+101	inf	inf				
+catalytic rate constant geometric mean	v16		10.1222	1/s	10.1222	99.762	403348.3116	16072581032.457				
+concentration of enzyme	v16		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v16		7.846	dimensionless	7.846	30760.1951	1.2134825459383354e+24	1.876812989759939e+47				
+substrate catalytic rate constant	v16		28.4392	1/s	28.4392	1.6038	31.7959	15.8979		1.2		
+product catalytic rate constant	v16		3.6027	1/s	3.6027	10073.2247	1.0150994128401807e+19	2.8601185842586263e+37				
+catalytic rate constant geometric mean	v17		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v17		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v17		0.0	dimensionless	0.0	2.6172086480354744e+107	inf	inf				
+substrate catalytic rate constant	v17		0.0295	1/s	0.0295	5.633720947695026e+53	inf	inf				
+product catalytic rate constant	v17		3385.0904	1/s	3385.0904	5.633720947695026e+53	inf	inf				
+catalytic rate constant geometric mean	v18		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v18		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v18		0.1635	dimensionless	0.1635	3.180458307479933e+171	inf	inf				
+substrate catalytic rate constant	v18		4.0434	1/s	4.0434	6.031064801512794e+85	inf	inf				
+product catalytic rate constant	v18		24.7314	1/s	24.7314	6.031064801512794e+85	inf	inf				
+catalytic rate constant geometric mean	v20		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v20		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v20		6.1164	dimensionless	6.1164	3.1804583075638185e+171	inf	inf				
+substrate catalytic rate constant	v20		24.7314	1/s	24.7314	6.03106480159233e+85	inf	inf				
+product catalytic rate constant	v20		4.0434	1/s	4.0434	6.03106480159233e+85	inf	inf				
+catalytic rate constant geometric mean	v21		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v21		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v21		6.1164	dimensionless	6.1164	3.180458307479933e+171	inf	inf				
+substrate catalytic rate constant	v21		24.7314	1/s	24.7314	6.031064801512794e+85	inf	inf				
+product catalytic rate constant	v21		4.0434	1/s	4.0434	6.031064801512794e+85	inf	inf				
+catalytic rate constant geometric mean	v22		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v22		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v22		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v22		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v22		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v24		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v24		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v24		0.0	dimensionless	0.0	1.8643115323521131e+124	inf	inf				
+substrate catalytic rate constant	v24		0.0002	1/s	0.0002	1.4978938204169684e+62	inf	inf				
+product catalytic rate constant	v24		409088.7292	1/s	409088.7292	1.4978938204169684e+62	inf	inf				
+catalytic rate constant geometric mean	v25		10.2349	1/s	10.2349	99.5271	403439.6855	15902811263.0949				
+concentration of enzyme	v25		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v25		6.526	dimensionless	6.526	127904.8053	6.92934041139566e+30	7.357653159999518e+60				
+substrate catalytic rate constant	v25		26.5282	1/s	26.5282	1.6038	29.6593	14.8295		1.2		
+product catalytic rate constant	v25		3.9487	1/s	3.9487	10025.4177	1.064866936575572e+19	2.8716511382333346e+37				
+catalytic rate constant geometric mean	v26		10.5283	1/s	10.5283	97.8874	384523.4808	14043882446.44				
+concentration of enzyme	v26		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v26		16013.8322	dimensionless	16013.8322	17377.4479	7.976923640210469e+24	3.973521767576397e+45				
+substrate catalytic rate constant	v26		1340.9142	1/s	1340.9142	1.6038	1499.1714	749.545		1.2		
+product catalytic rate constant	v26		0.0827	1/s	0.0827	9694.8165	1.6376854425466666e+17	3.2444784015221598e+35				
+catalytic rate constant geometric mean	v27		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v27		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v27		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v27		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v27		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v28		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v28		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v28		228.8174	dimensionless	228.8174	3.299893415733045e+138	inf	inf				
+substrate catalytic rate constant	v28		151.2671	1/s	151.2671	1.9739530393619087e+69	inf	inf				
+product catalytic rate constant	v28		0.6611	1/s	0.6611	1.9739530393619087e+69	inf	inf				
+catalytic rate constant geometric mean	v29		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v29		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v29		1.0	dimensionless	1.0	7.543990341635785e+123	inf	inf				
+substrate catalytic rate constant	v29		10.0	1/s	10.0	9.443132759930847e+61	inf	inf				
+product catalytic rate constant	v29		10.0	1/s	10.0	9.443132759930847e+61	inf	inf				
+catalytic rate constant geometric mean	v30		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v30		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v30		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v30		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v30		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v31		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v31		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v31		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v31		5.723	1/s	5.723	4.173397478889593e+87	inf	inf				
+product catalytic rate constant	v31		17.4733	1/s	17.4733	4.173397478889593e+87	inf	inf				
+catalytic rate constant geometric mean	v32		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v32		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v32		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v32		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v32		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v33		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v33		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v33		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v33		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v33		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v34		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v34		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v34		0.0	dimensionless	0.0	1.8643115323521131e+124	inf	inf				
+substrate catalytic rate constant	v34		0.0002	1/s	0.0002	1.4978938204169684e+62	inf	inf				
+product catalytic rate constant	v34		409088.7292	1/s	409088.7292	1.4978938204169684e+62	inf	inf				
+catalytic rate constant geometric mean	v35		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v35		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v35		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v35		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v35		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v36		9.9811	1/s	9.9811	99.92	400636.376	16081286523.4242				
+concentration of enzyme	v36		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v36		0.0	dimensionless	0.0	40200.7431	4.866756299158892e+19	1.2401021028963801e+44				
+substrate catalytic rate constant	v36		0.0894	1/s	0.0894	1.6038	0.1	0.05		1.2		
+product catalytic rate constant	v36		1113.7977	1/s	1113.7977	10105.4635	3.2320305503031635e+21	9.378742269565063e+39				
+catalytic rate constant geometric mean	v37		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v37		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v37		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v37		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v37		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v38		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v38		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v38		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v38		1.3205	1/s	1.3205	4.173397478889593e+87	inf	inf				
+product catalytic rate constant	v38		75.7267	1/s	75.7267	4.173397478889593e+87	inf	inf				
+catalytic rate constant geometric mean	v40		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v40		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v40		0.1635	dimensionless	0.1635	4.03883212878057e+118	inf	inf				
+substrate catalytic rate constant	v40		4.0434	1/s	4.0434	2.193089902832255e+59	inf	inf				
+product catalytic rate constant	v40		24.7314	1/s	24.7314	2.193089902832255e+59	inf	inf				
+catalytic rate constant geometric mean	v41		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v41		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v41		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v41		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v41		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v42		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v42		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v42		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v42		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v42		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v43		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v43		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v43		0.1635	dimensionless	0.1635	4.03883212878057e+118	inf	inf				
+substrate catalytic rate constant	v43		4.0434	1/s	4.0434	2.193089902832255e+59	inf	inf				
+product catalytic rate constant	v43		24.7314	1/s	24.7314	2.193089902832255e+59	inf	inf				
+catalytic rate constant geometric mean	v39		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v39		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v39		1.0	dimensionless	1.0	1.546619862809495e+175	inf	inf				
+substrate catalytic rate constant	v39		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+product catalytic rate constant	v39		10.0	1/s	10.0	4.199791070513993e+87	inf	inf				
+catalytic rate constant geometric mean	v44		10.0	1/s	10.0	100.0	402874.8771	16230816651.281				
+concentration of enzyme	v44		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	v44		6.1164	dimensionless	6.1164	3.1804583075638185e+171	inf	inf				
+substrate catalytic rate constant	v44		24.7314	1/s	24.7314	6.03106480159233e+85	inf	inf				
+product catalytic rate constant	v44		4.0434	1/s	4.0434	6.03106480159233e+85	inf	inf				
+Michaelis constant	GLCflow	GLC	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	LACflow	LAC	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	GAPflow	GAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v1	GLC	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v1	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v1	F6P	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v1	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v2	F6P	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v2	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v2	FBP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v2	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v3	FBP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v3	GAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v4	GAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v4	NAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v4	DPG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v4	NADH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v5	DPG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v5	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v5	PEP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v5	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v6	PEP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v6	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v6	PYR_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v6	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v7	PYR_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v7	NADH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v7	LAC	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v7	NAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	hidden_1	AMP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	hidden_1	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	hidden_1	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v8	PYR_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v8	Pyr	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	Pyr	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	CO2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	Acetyl_CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v9	NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v10	OXA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v10	Acetyl_CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v10	Cit	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v10	CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v11	Cit	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v11	IsoCit	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v12	IsoCit	0.0898	mM	0.0898	1.5884	0.1	0.0489		1.2		
+Michaelis constant	v12	NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v12	OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v12	NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	CO2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	SCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v14	NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	GDP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	SCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	Pi	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	Suc	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	GTP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v15	CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v16	Suc	0.1002	mM	0.1002	9.9993	1.4187	20.0452				
+Michaelis constant	v16	Q	0.1002	mM	0.1002	9.9993	1.4187	20.0452				
+Michaelis constant	v16	Fum	0.0998	mM	0.0998	9.9993	1.4144	19.9844				
+Michaelis constant	v16	QH2	0.0998	mM	0.0998	9.9993	1.4144	19.9844				
+Michaelis constant	v17	Fum	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v17	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v18	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v18	NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v18	NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v18	OXA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v20	Ala	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v20	OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v20	Glu	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v20	Pyr	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v21	OXA	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v21	Glu	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v21	Asp	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v21	OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v22	Glu_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v22	Asp	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v22	Asp_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v22	Glu	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v24	NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v24	Q	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v24	NAD_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v24	QH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v25	QH2	0.1003	mM	0.1003	9.9985	1.4204	20.0662				
+Michaelis constant	v25	Cytc3p	0.1006	mM	0.1006	9.9941	1.4231	20.0833				
+Michaelis constant	v25	Q	0.0997	mM	0.0997	9.9985	1.4122	19.95				
+Michaelis constant	v25	Cytc2p	0.0994	mM	0.0994	9.9941	1.4066	19.8515				
+Michaelis constant	v26	Cytc2p	0.1006	mM	0.1006	9.9933	1.4237	20.0891				
+Michaelis constant	v26	Cytc3p	0.0994	mM	0.0994	9.9933	1.4055	19.8322				
+Michaelis constant	v27	Cit_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v27	CoA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v27	OXA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v27	Acetyl_CoA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v28	ADP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v28	Pi	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v28	ATP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v28	H2O	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v29	Cit_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v29	IsoCitcyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v30	Mal_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v30	OG	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v30	OG_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v30	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v31	NADH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v31	OXA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v31	Mal_cyt	0.1747	mM	0.1747	1.5884	0.1945	0.095		1.2		
+Michaelis constant	v31	NAD	0.1747	mM	0.1747	1.5884	0.1945	0.095		1.2		
+Michaelis constant	v32	Asp_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v32	OG_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v32	OXA_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v32	Glu_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v33	Cit_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v33	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v33	Mal_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v33	Cit	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v34	ETFred	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v34	Q	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v34	ETFox	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v34	QH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v35	FADH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v35	ETFox	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v35	ETFred	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v35	FAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v36	ATP	0.1	mM	0.1	9.9998	1.4163	20.0146				
+Michaelis constant	v36	CO2	0.1	mM	0.1	9.9998	1.4163	20.0146				
+Michaelis constant	v36	Pyr	0.421	mM	0.421	1.5884	0.4685	0.2289		1.2		
+Michaelis constant	v36	Pi	0.1	mM	0.1	9.9998	1.417	20.0241				
+Michaelis constant	v36	ADP	0.1	mM	0.1	9.9998	1.417	20.0241				
+Michaelis constant	v36	OXA	0.1	mM	0.1	9.9998	1.417	20.0241				
+Michaelis constant	v37	G3P	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v37	FAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v37	FADH2	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v37	DHAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v38	NADH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v38	DHAP	0.421	mM	0.421	1.5884	0.4685	0.229		1.2		
+Michaelis constant	v38	G3P	24.1402	mM	24.1402	1.5884	26.8682	13.1293		1.2		
+Michaelis constant	v38	NAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v40	ADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v40	ADP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v41	IsoCitcyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v41	NADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v41	OG_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v41	NADPH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v42	IsoCitcyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v42	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v42	Mal_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v42	IsoCit	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v43	ATP	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v43	ATP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v39	Mal_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v39	NADP_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v39	NADPH_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v39	PYR_cyt	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v44	Mal	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v44	NADP_p	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v44	NADPH	0.1	mM	0.1	10.0	1.4167	20.0217				
+Michaelis constant	v44	Pyr	0.1	mM	0.1	10.0	1.4167	20.0217				
